@@ -1,7 +1,5 @@
-# css-interview-questions
-CSS Interview questions for cracking the interview
-
 # CSS Interview Questions
+CSS Interview questions for cracking the interview
 
 ## CSS Easy Questions
 
