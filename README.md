@@ -1,7 +1,7 @@
 # CSS Interview Questions
 CSS Interview questions for cracking the interview
 
-## CSS Easy Questions
+## Easy Questions
 
 | No. | Question                                                                                       |
 |-----|------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ CSS Interview questions for cracking the interview
 | 46  | What are the values for `justify-content`?                                                     |
 | 47  | What is the difference between `space-around` and `space-between`?                             |
 
-## CSS Medium Questions
+## Medium Questions
 
 | No. | Question                                                                                       |
 |-----|------------------------------------------------------------------------------------------------|
@@ -93,7 +93,7 @@ CSS Interview questions for cracking the interview
 | 34  | For a particular page, can I have multiple CSS files or is it limited to only a single file?   |
 | 35  | There are a number of units available in CSS. Can you name any three or four units?            |
 
-## CSS Hard Questions
+## Hard Questions
 
 | No. | Question                                                                                       |
 |-----|------------------------------------------------------------------------------------------------|
